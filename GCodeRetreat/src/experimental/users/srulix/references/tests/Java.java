@@ -4,6 +4,6 @@ public class Java {
   public Java() {}
 
   public String bar() {
-    return "fubar";
+    return "fubarasdf";
   }
 }

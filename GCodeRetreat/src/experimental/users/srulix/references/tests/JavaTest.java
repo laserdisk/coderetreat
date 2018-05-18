@@ -12,6 +12,7 @@ public class JavaTest {
   @Test
   public void fooBar() {
     Java j = new Java();
+    System.out.println("hi");
     assertEquals("fubar", j.bar());
   }
 }
